@@ -9,3 +9,4 @@
 - [ ] I have added a loom video demonstrating the changes
 - [ ] I have added unit tests (or not applicable)
 - [ ] I have added necessary changes to e2e (or not applicable)
+- [ ] I have checked to make sure the code in this change is DRY
