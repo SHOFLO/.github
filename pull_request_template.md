@@ -7,11 +7,14 @@ This was left blank so please go ahead and reject this PR.
 This was left blank so please go ahead and reject this PR.
 
 ## Checklist before requesting a review
+
+👉👉 **NOTE: If any of these are not checked, please reconsider opening the PR as these are required.** 👈👈 
+
 - [ ] I have performed a self-review of my code
 - [ ] I have followed our [style guide](https://google.github.io/styleguide/jsguide.html) 
 - [ ] I understand the code I'm editing and the potential risks to production associated with this change
 - [ ] I have checked to make sure the code in this change is DRY
-- [ ] This change does not require any other change and can be independently deployed (if the answer is no, needs to be rejected or override)
+- [ ] This change does not require any other change and can be independently deployed
 
 ##### Loom video
 - [ ] I have added a Loom video
