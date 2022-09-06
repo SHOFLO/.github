@@ -22,3 +22,7 @@ This was left blank so please go ahead and reject this PR.
 ##### E2E tests
 - [ ] I have added necessary changes to E2E tests
 - [ ] Not applicable
+
+##### UI review
+- [ ] This change requires a manual UI review
+- [ ] Not applicable
