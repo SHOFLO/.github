@@ -1,6 +1,10 @@
 ## Describe your changes
 
+This was left blank so please go ahead and reject this PR.
+
 ## Issue ticket number and link
+
+This was left blank so please go ahead and reject this PR.
 
 ## Checklist before requesting a review
 - [ ] I have performed a self-review of my code
