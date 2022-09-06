@@ -11,7 +11,7 @@ This was left blank so please go ahead and reject this PR.
 - [ ] I have followed our [style guide](https://google.github.io/styleguide/jsguide.html) 
 - [ ] I understand the code I'm editing and the potential risks to production associated with this change
 - [ ] I have checked to make sure the code in this change is DRY
-- [ ] This change does not require any other change and can be independently deployed
+- [ ] This change does not require any other change and can be independently deployed (if the answer is no, needs to be rejected or override)
 ##### Loom video
 - [ ] I have added a Loom video
 - [ ] Not applicable
