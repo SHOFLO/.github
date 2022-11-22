@@ -38,3 +38,8 @@
 - [ ] This change is behind a feature flag
 - [ ] If above is checked, all variations of the feature flag have been tested 
 
+##### Environment variables
+- [ ] This change depends on new environment variable(s)
+- [ ] If applicable, change has been tested WITHOUT the new environment variable(s)
+- [ ] If applicable, Change has been tested WITH the new environment variable(s)
+
