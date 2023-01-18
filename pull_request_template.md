@@ -6,7 +6,7 @@
 
 [ This was left blank so please go ahead and reject this PR. ]
 
-##### Loom video (Required)
+## Loom video (Required)
 
 [ Insert Video Here ]
 
