@@ -34,7 +34,10 @@
 
 ##### Feature flag
 - [ ] This change is behind a feature flag
-- [ ] If above is checked, all variations of the feature flag have been tested 
+  - [ ] If above is checked, all variations of the feature flag have been tested 
+  - Feature flag name: 
+- [ ] No feature flag needed
+  - Explain why no feature flag is needed:
 
 ##### Environment variables
 - [ ] This change depends on new environment variable(s)
