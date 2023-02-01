@@ -6,6 +6,10 @@
 
 [ This was left blank so please go ahead and reject this PR. ]
 
+## What kind of version change is this?
+
+[ --semver-patch | --semver-minor | Breaking change! | None ]
+
 ## Loom video (Required)
 
 [ Insert Video Here ]
