@@ -8,7 +8,7 @@
 
 ## What kind of version change is this?
 
-[ --semver-patch | --semver-minor | None ]
+[ --semver-patch | --semver-minor | Breaking change! | None ]
 
 ## Loom video (Required)
 
