@@ -23,6 +23,7 @@
 - [ ] I understand the code I'm editing and the potential risks to production associated with this change
 - [ ] I have checked to make sure the code in this change is DRY
 - [ ] This change does not require any other change and can be independently deployed
+- [ ] I have taken downmerge of main in my branch and performed testing
 
 ##### Unit tests 
 - [ ] I have added unit tests
