@@ -23,7 +23,6 @@
 - [ ] I understand the code I'm editing and the potential risks to production associated with this change
 - [ ] I have checked to make sure the code in this change is DRY
 - [ ] This change does not require any other change and can be independently deployed
-- [ ] I have taken downmerge of main in my branch and performed testing
 
 ##### Unit tests 
 - [ ] I have added unit tests
@@ -48,4 +47,7 @@
 - [ ] This change depends on new environment variable(s)
 - [ ] If applicable, change has been tested WITHOUT the new environment variable(s)
 - [ ] If applicable, Change has been tested WITH the new environment variable(s)
+
+#### Before Merge Pre-requistie
+- [ ] I have taken downmerge of main in my branch and performed testing
 
