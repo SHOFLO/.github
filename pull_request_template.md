@@ -48,3 +48,6 @@
 - [ ] If applicable, change has been tested WITHOUT the new environment variable(s)
 - [ ] If applicable, Change has been tested WITH the new environment variable(s)
 
+#### Before Merge prerequisite
+- [ ] I have merged the changes from the main branch into my own branch and performed testing. This is applicable only if the code in the pull request (PR) has not been updated within 2 days before the merge.
+
